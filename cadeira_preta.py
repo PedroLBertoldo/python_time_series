@@ -2,8 +2,8 @@
 #Ele é um bloco de comentários (normalmente no início do arquivo) onde o programador coloca informações sobre o código.
 
 """
-Um docstring (documentation string) é uma string especial que serve para documentar módulos, funções, classes ou métodos.
-É escrita entre aspas triplas (""" """ ou ''' ''') logo após a definição. 
+Um docstring é uma string especial que serve para documentar módulos, funções, classes ou métodos.
+É escrita entre aspas triplas """ """ logo após a definição. 
 """
 
 
